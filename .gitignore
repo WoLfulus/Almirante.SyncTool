@@ -1,0 +1,5 @@
+/Builds/*
+/Sources/SyncTool/bin
+/Sources/SyncTool/obj
+
+*.suo

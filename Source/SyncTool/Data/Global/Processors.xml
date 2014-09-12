@@ -1,0 +1,61 @@
+﻿<Collection name="Root" type="System.Collections.Generic.List`1[[Tools.SyncTool.Data.ContentPipeline, Tools.SyncTool, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <Properties>
+    <Simple name="Capacity" value="11" />
+  </Properties>
+  <Items>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="Effect - XNA Framework" />
+        <Simple name="Value" value="EffectProcessor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="Model - XNA Framework" />
+        <Simple name="Value" value="ModelProcessor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="Sprite Front Description - XNA Framework" />
+        <Simple name="Value" value="FontDescriptionProcessor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="Song - XNA Framework" />
+        <Simple name="Value" value="SongProcessor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="Sound Effect - XNA Framework" />
+        <Simple name="Value" value="SoundEffectProcessor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="Texture - XNA Framework" />
+        <Simple name="Value" value="TextureProcessor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="Video - XNA Framework " />
+        <Simple name="Value" value="VideoProcessor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="XACT Project - XNA Framework" />
+        <Simple name="Value" value="XactProcessor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="No Processing Required" />
+        <Simple name="Value" value="PassThroughProcessor" />
+      </Properties>
+    </Complex>
+  </Items>
+</Collection>

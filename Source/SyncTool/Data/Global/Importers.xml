@@ -1,0 +1,73 @@
+﻿<Collection name="Root" type="System.Collections.Generic.List`1[[Tools.SyncTool.Data.ContentPipeline, Tools.SyncTool, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <Properties>
+    <Simple name="Capacity" value="11" />
+  </Properties>
+  <Items>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="Effect - XNA Framework" />
+        <Simple name="Value" value="EffectImporter" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="Autodesk FBX - XNA Framework" />
+        <Simple name="Value" value="FbxImporter" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="Sprite Front Description - XNA Framework" />
+        <Simple name="Value" value="FontDescriptionImporter" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="MP3 Audio File - XNA Framework" />
+        <Simple name="Value" value="Mp3Importer" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="Texture - XNA Framework" />
+        <Simple name="Value" value="TextureImporter" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="WAV Audio File - XNA Framework" />
+        <Simple name="Value" value="WavImporter" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="WMA Audio File - XNA Framework " />
+        <Simple name="Value" value="WmaImporter" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="WMV Video File - XNA Framework" />
+        <Simple name="Value" value="WmvImporter" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="XACT Project - XNA Framework" />
+        <Simple name="Value" value="XactImporter" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="X File - XNA Framework" />
+        <Simple name="Value" value="XImporter" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Description" value="XML Content - XNA Framework" />
+        <Simple name="Value" value="XmlImporter" />
+      </Properties>
+    </Complex>
+  </Items>
+</Collection>

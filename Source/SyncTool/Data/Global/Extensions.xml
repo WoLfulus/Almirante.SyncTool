@@ -1,0 +1,97 @@
+﻿<Collection name="Root" type="System.Collections.Generic.List`1[[Tools.SyncTool.Data.Extension, Tools.SyncTool, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <Properties>
+    <Simple name="Capacity" value="16" />
+  </Properties>
+  <Items>
+    <Complex>
+      <Properties>
+        <Simple name="Value" value="html" />
+        <Simple name="Copy" value="True" />
+        <Simple name="Designer" value="True" />
+        <Simple name="ContentImporter" value="" />
+        <Simple name="ContentProcessor" value="" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Value" value="css" />
+        <Simple name="Copy" value="True" />
+        <Simple name="Designer" value="True" />
+        <Simple name="ContentImporter" value="" />
+        <Simple name="ContentProcessor" value="" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Value" value="js" />
+        <Simple name="Copy" value="True" />
+        <Simple name="Designer" value="True" />
+        <Simple name="ContentImporter" value="" />
+        <Simple name="ContentProcessor" value="" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Value" value="gif" />
+        <Simple name="Copy" value="True" />
+        <Simple name="Designer" value="False" />
+        <Simple name="ContentImporter" value="" />
+        <Simple name="ContentProcessor" value="" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Value" value="mp3" />
+        <Simple name="Copy" value="False" />
+        <Simple name="Designer" value="False" />
+        <Simple name="ContentImporter" value="Mp3Importer" />
+        <Simple name="ContentProcessor" value="SongProcessor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Value" value="wav" />
+        <Simple name="Copy" value="False" />
+        <Simple name="Designer" value="False" />
+        <Simple name="ContentImporter" value="WavImporter" />
+        <Simple name="ContentProcessor" value="SoundEffectProcessor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Value" value="wmv" />
+        <Simple name="Copy" value="False" />
+        <Simple name="Designer" value="False" />
+        <Simple name="ContentImporter" value="WmvImporter" />
+        <Simple name="ContentProcessor" value="VideoProcessor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Value" value="xml" />
+        <Simple name="Copy" value="False" />
+        <Simple name="Designer" value="True" />
+        <Simple name="ContentImporter" value="XmlImporter" />
+        <Simple name="ContentProcessor" value="PassThroughProcessor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Value" value="spritefont" />
+        <Simple name="Copy" value="False" />
+        <Simple name="Designer" value="False" />
+        <Simple name="ContentImporter" value="FontDescriptionImporter" />
+        <Simple name="ContentProcessor" value="FontDescriptionProcessor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="Value" value="png" />
+        <Simple name="Copy" value="False" />
+        <Simple name="Designer" value="False" />
+        <Simple name="ContentImporter" value="TextureImporter" />
+        <Simple name="ContentProcessor" value="TextureProcessor" />
+      </Properties>
+    </Complex>
+  </Items>
+</Collection>
